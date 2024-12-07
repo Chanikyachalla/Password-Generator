@@ -1,0 +1,15 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A simple password generator built using HTML, CSS, and JavaScript. This tool allows users to generate a random password based on selected criteria such as password length, inclusion of uppercase letters, lowercase letters, numbers, and special characters.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
